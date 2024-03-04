@@ -4,7 +4,7 @@ My Name is Aidan McNamara,
 
 I'm a Computer Science Student at Adelphi University with my track bring in Software Enginnering
 
-- I'm currently learning...
+// I'm currently learning...
 
 I know Java, Python, C and C++
 
