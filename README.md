@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 I'm a **Computer Science Student** at **Adelphi University**, specializing in **Software Engineering**.
 - 🌱 Currently, I'm diving into the world of **Web Development**, exploring **HTML**, **CSS**, and **JavaScript**.
-- 💡 Fun Fact: I have a soft spot for **Epcot**—the blend of technology, culture, and imagination!
+- 💡 Fun Fact: I have a soft spot for **Epcot** because of its blend of technology, culture, and imagination!
 
 ## Skills
 I'm proficient in the following programming languages:
@@ -22,16 +22,6 @@ Let's connect! Feel free to reach out on LinkedIn. I'm always up for a coding ch
 ### Hi there 👋
 
 My Name is Aidan McNamara,
-
-I'm a Computer Science Student at Adelphi University with my track bring in Software Enginnering
-
-I'm trying to learn:  Web development (HTML, CSS, JavaScript)
-
-I know Java, Python, C and C++
-
-A ⚡ Fun fact about me is that I really like Epcot
-
-
 
 I'm not quite sure of what to specialize in but I am interested in Web, Mobile and Application devlopment 
 
