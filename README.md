@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+My Name is Aidan McNamara,
+
+I'm a Computer Science Student at Adelphi University with my track bring in Software Enginnering
+
+I'm currently learning...
+
+I know Java, Python, C and C++
+
+<!--
+I'm not quite sure of what to specialize in but I am interested in Web, Mobile and Application devlopment 
+-->
+
+
 <!--
 **Aidmac88992/Aidmac88992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
