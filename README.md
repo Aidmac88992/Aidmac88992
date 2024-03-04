@@ -8,12 +8,12 @@ I'm trying to learn:  Web development (HTML, CSS, JavaScript)
 
 I know Java, Python, C and C++
 
+A ⚡ Fun fact about me is that I really like Epcot
+
 <!--
 I'm not quite sure of what to specialize in but I am interested in Web, Mobile and Application devlopment 
--->
 
 
-<!--
 **Aidmac88992/Aidmac88992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
