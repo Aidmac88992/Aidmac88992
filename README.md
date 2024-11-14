@@ -15,7 +15,7 @@ I'm proficient in the following programming languages:
 I'm excited to share my coding journey with you! Check out my repositories for projects, experiments, and learning adventures.
 
 ## Connect with Me
-Let's connect! Feel free to reach out on LinkedIn. I'm always up for a coding chat or discussing the latest tech trends.
+Let's connect! Feel free to reach out on LinkedIn. I'm always up for chatting about coding or the latest tech trends.
 
 
 <!-- 
@@ -23,7 +23,7 @@ Let's connect! Feel free to reach out on LinkedIn. I'm always up for a coding ch
 
 My Name is Aidan McNamara,
 
-I'm not quite sure of what to specialize in but I am interested in Web, Mobile and Application devlopment 
+I'm not quite sure of what to specialize in but I am interested in Web, Mobile Application devlopment 
 
 **Aidmac88992/Aidmac88992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
